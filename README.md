@@ -319,7 +319,7 @@ Algunas ideas para mejorar la aplicación:
 10. Desplegar la aplicación en un servicio en la nube
 
 ## Autor
-Desarrollado por # Jeronimo Rodriguez Sepulveda
+Desarrollado por Jeronimo Rodriguez Sepulveda
 
 ## Licencia
 [Especificar licencia]
